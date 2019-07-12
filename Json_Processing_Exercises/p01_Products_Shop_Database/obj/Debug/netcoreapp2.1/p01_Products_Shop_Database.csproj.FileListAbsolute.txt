@@ -1,0 +1,11 @@
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p01_Products_Shop_Database\bin\Debug\netcoreapp2.1\p01_Products_Shop_Database.deps.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p01_Products_Shop_Database\bin\Debug\netcoreapp2.1\p01_Products_Shop_Database.runtimeconfig.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p01_Products_Shop_Database\bin\Debug\netcoreapp2.1\p01_Products_Shop_Database.runtimeconfig.dev.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p01_Products_Shop_Database\bin\Debug\netcoreapp2.1\p01_Products_Shop_Database.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p01_Products_Shop_Database\bin\Debug\netcoreapp2.1\p01_Products_Shop_Database.pdb
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p01_Products_Shop_Database\obj\Debug\netcoreapp2.1\p01_Products_Shop_Database.csproj.CoreCompileInputs.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p01_Products_Shop_Database\obj\Debug\netcoreapp2.1\p01_Products_Shop_Database.AssemblyInfoInputs.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p01_Products_Shop_Database\obj\Debug\netcoreapp2.1\p01_Products_Shop_Database.AssemblyInfo.cs
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p01_Products_Shop_Database\obj\Debug\netcoreapp2.1\p01_Products_Shop_Database.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p01_Products_Shop_Database\obj\Debug\netcoreapp2.1\p01_Products_Shop_Database.pdb
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p01_Products_Shop_Database\obj\Debug\netcoreapp2.1\p01_Products_Shop_Database.csprojAssemblyReference.cache
