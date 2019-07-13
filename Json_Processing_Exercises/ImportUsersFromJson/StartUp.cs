@@ -31,9 +31,9 @@ namespace ImportUsersFromJson
             {
                 users = JsonConvert.DeserializeObject<List<User>>(File.ReadAllText(inputJson)); 
             }
-            catch (Exception)
+            catch (Exception e)
             {
-                throw new JsonSerializationException("Couldn't deserialize Json!");
+                throw e.InnerException;
             }
 
             try
