@@ -1,0 +1,14 @@
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportUsersFromJson\obj\Debug\netcoreapp2.1\ImportUsersFromJson.csprojAssemblyReference.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportUsersFromJson\obj\Debug\netcoreapp2.1\ImportUsersFromJson.csproj.CoreCompileInputs.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportUsersFromJson\obj\Debug\netcoreapp2.1\ImportUsersFromJson.AssemblyInfoInputs.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportUsersFromJson\obj\Debug\netcoreapp2.1\ImportUsersFromJson.AssemblyInfo.cs
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportUsersFromJson\bin\Debug\netcoreapp2.1\ImportUsersFromJson.deps.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportUsersFromJson\bin\Debug\netcoreapp2.1\ImportUsersFromJson.runtimeconfig.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportUsersFromJson\bin\Debug\netcoreapp2.1\ImportUsersFromJson.runtimeconfig.dev.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportUsersFromJson\bin\Debug\netcoreapp2.1\ImportUsersFromJson.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportUsersFromJson\bin\Debug\netcoreapp2.1\ImportUsersFromJson.pdb
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportUsersFromJson\bin\Debug\netcoreapp2.1\p01_Products_Shop_Database.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportUsersFromJson\bin\Debug\netcoreapp2.1\p01_Products_Shop_Database.pdb
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportUsersFromJson\obj\Debug\netcoreapp2.1\ImportUsersFromJson.csproj.CopyComplete
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportUsersFromJson\obj\Debug\netcoreapp2.1\ImportUsersFromJson.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportUsersFromJson\obj\Debug\netcoreapp2.1\ImportUsersFromJson.pdb
