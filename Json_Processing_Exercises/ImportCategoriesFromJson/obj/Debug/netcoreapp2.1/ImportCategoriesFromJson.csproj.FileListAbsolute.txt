@@ -1,0 +1,14 @@
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesFromJson\bin\Debug\netcoreapp2.1\ImportCategoriesFromJson.deps.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesFromJson\bin\Debug\netcoreapp2.1\ImportCategoriesFromJson.runtimeconfig.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesFromJson\bin\Debug\netcoreapp2.1\ImportCategoriesFromJson.runtimeconfig.dev.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesFromJson\bin\Debug\netcoreapp2.1\ImportCategoriesFromJson.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesFromJson\bin\Debug\netcoreapp2.1\ImportCategoriesFromJson.pdb
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesFromJson\bin\Debug\netcoreapp2.1\p01_Products_Shop_Database.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesFromJson\bin\Debug\netcoreapp2.1\p01_Products_Shop_Database.pdb
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesFromJson\obj\Debug\netcoreapp2.1\ImportCategoriesFromJson.csprojAssemblyReference.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesFromJson\obj\Debug\netcoreapp2.1\ImportCategoriesFromJson.csproj.CoreCompileInputs.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesFromJson\obj\Debug\netcoreapp2.1\ImportCategoriesFromJson.AssemblyInfoInputs.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesFromJson\obj\Debug\netcoreapp2.1\ImportCategoriesFromJson.AssemblyInfo.cs
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesFromJson\obj\Debug\netcoreapp2.1\ImportCategoriesFromJson.csproj.CopyComplete
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesFromJson\obj\Debug\netcoreapp2.1\ImportCategoriesFromJson.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesFromJson\obj\Debug\netcoreapp2.1\ImportCategoriesFromJson.pdb
