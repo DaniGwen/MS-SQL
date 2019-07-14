@@ -1,0 +1,14 @@
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesProductsFromJson\bin\Debug\netcoreapp2.1\ImportCategoriesProductsFromJson.deps.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesProductsFromJson\bin\Debug\netcoreapp2.1\ImportCategoriesProductsFromJson.runtimeconfig.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesProductsFromJson\bin\Debug\netcoreapp2.1\ImportCategoriesProductsFromJson.runtimeconfig.dev.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesProductsFromJson\bin\Debug\netcoreapp2.1\ImportCategoriesProductsFromJson.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesProductsFromJson\bin\Debug\netcoreapp2.1\ImportCategoriesProductsFromJson.pdb
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesProductsFromJson\bin\Debug\netcoreapp2.1\p01_Products_Shop_Database.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesProductsFromJson\bin\Debug\netcoreapp2.1\p01_Products_Shop_Database.pdb
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesProductsFromJson\obj\Debug\netcoreapp2.1\ImportCategoriesProductsFromJson.csprojAssemblyReference.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesProductsFromJson\obj\Debug\netcoreapp2.1\ImportCategoriesProductsFromJson.csproj.CoreCompileInputs.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesProductsFromJson\obj\Debug\netcoreapp2.1\ImportCategoriesProductsFromJson.AssemblyInfoInputs.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesProductsFromJson\obj\Debug\netcoreapp2.1\ImportCategoriesProductsFromJson.AssemblyInfo.cs
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesProductsFromJson\obj\Debug\netcoreapp2.1\ImportCategoriesProductsFromJson.csproj.CopyComplete
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesProductsFromJson\obj\Debug\netcoreapp2.1\ImportCategoriesProductsFromJson.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\ImportCategoriesProductsFromJson\obj\Debug\netcoreapp2.1\ImportCategoriesProductsFromJson.pdb
