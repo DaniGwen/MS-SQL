@@ -1,0 +1,13 @@
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2_ExportProductsInRange\obj\Debug\netcoreapp2.1\p2_ExportProductsInRange.csproj.CoreCompileInputs.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2_ExportProductsInRange\obj\Debug\netcoreapp2.1\p2_ExportProductsInRange.AssemblyInfoInputs.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2_ExportProductsInRange\obj\Debug\netcoreapp2.1\p2_ExportProductsInRange.AssemblyInfo.cs
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2_ExportProductsInRange\bin\Debug\netcoreapp2.1\p2_ExportProductsInRange.deps.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2_ExportProductsInRange\bin\Debug\netcoreapp2.1\p2_ExportProductsInRange.runtimeconfig.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2_ExportProductsInRange\bin\Debug\netcoreapp2.1\p2_ExportProductsInRange.runtimeconfig.dev.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2_ExportProductsInRange\bin\Debug\netcoreapp2.1\p2_ExportProductsInRange.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2_ExportProductsInRange\bin\Debug\netcoreapp2.1\p2_ExportProductsInRange.pdb
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2_ExportProductsInRange\bin\Debug\netcoreapp2.1\p01_Products_Shop_Database.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2_ExportProductsInRange\bin\Debug\netcoreapp2.1\p01_Products_Shop_Database.pdb
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2_ExportProductsInRange\obj\Debug\netcoreapp2.1\p2_ExportProductsInRange.csproj.CopyComplete
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2_ExportProductsInRange\obj\Debug\netcoreapp2.1\p2_ExportProductsInRange.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2_ExportProductsInRange\obj\Debug\netcoreapp2.1\p2_ExportProductsInRange.pdb
