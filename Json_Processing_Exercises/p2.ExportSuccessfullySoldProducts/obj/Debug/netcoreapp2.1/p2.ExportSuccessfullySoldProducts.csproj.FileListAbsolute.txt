@@ -1,0 +1,14 @@
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2.ExportSuccessfullySoldProducts\bin\Debug\netcoreapp2.1\p2.ExportSuccessfullySoldProducts.deps.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2.ExportSuccessfullySoldProducts\bin\Debug\netcoreapp2.1\p2.ExportSuccessfullySoldProducts.runtimeconfig.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2.ExportSuccessfullySoldProducts\bin\Debug\netcoreapp2.1\p2.ExportSuccessfullySoldProducts.runtimeconfig.dev.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2.ExportSuccessfullySoldProducts\bin\Debug\netcoreapp2.1\p2.ExportSuccessfullySoldProducts.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2.ExportSuccessfullySoldProducts\bin\Debug\netcoreapp2.1\p2.ExportSuccessfullySoldProducts.pdb
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2.ExportSuccessfullySoldProducts\obj\Debug\netcoreapp2.1\p2.ExportSuccessfullySoldProducts.csprojAssemblyReference.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2.ExportSuccessfullySoldProducts\obj\Debug\netcoreapp2.1\p2.ExportSuccessfullySoldProducts.csproj.CoreCompileInputs.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2.ExportSuccessfullySoldProducts\obj\Debug\netcoreapp2.1\p2.ExportSuccessfullySoldProducts.AssemblyInfoInputs.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2.ExportSuccessfullySoldProducts\obj\Debug\netcoreapp2.1\p2.ExportSuccessfullySoldProducts.AssemblyInfo.cs
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2.ExportSuccessfullySoldProducts\obj\Debug\netcoreapp2.1\p2.ExportSuccessfullySoldProducts.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2.ExportSuccessfullySoldProducts\obj\Debug\netcoreapp2.1\p2.ExportSuccessfullySoldProducts.pdb
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2.ExportSuccessfullySoldProducts\bin\Debug\netcoreapp2.1\p01_Products_Shop_Database.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2.ExportSuccessfullySoldProducts\bin\Debug\netcoreapp2.1\p01_Products_Shop_Database.pdb
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p2.ExportSuccessfullySoldProducts\obj\Debug\netcoreapp2.1\p2.ExportSuccessfullySoldProducts.csproj.CopyComplete
