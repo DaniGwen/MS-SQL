@@ -1,0 +1,14 @@
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p3.ExportCategoriesByProductsCount\bin\Debug\netcoreapp2.1\p3.ExportCategoriesByProductsCount.deps.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p3.ExportCategoriesByProductsCount\bin\Debug\netcoreapp2.1\p3.ExportCategoriesByProductsCount.runtimeconfig.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p3.ExportCategoriesByProductsCount\bin\Debug\netcoreapp2.1\p3.ExportCategoriesByProductsCount.runtimeconfig.dev.json
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p3.ExportCategoriesByProductsCount\bin\Debug\netcoreapp2.1\p3.ExportCategoriesByProductsCount.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p3.ExportCategoriesByProductsCount\bin\Debug\netcoreapp2.1\p3.ExportCategoriesByProductsCount.pdb
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p3.ExportCategoriesByProductsCount\bin\Debug\netcoreapp2.1\p01_Products_Shop_Database.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p3.ExportCategoriesByProductsCount\bin\Debug\netcoreapp2.1\p01_Products_Shop_Database.pdb
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p3.ExportCategoriesByProductsCount\obj\Debug\netcoreapp2.1\p3.ExportCategoriesByProductsCount.csprojAssemblyReference.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p3.ExportCategoriesByProductsCount\obj\Debug\netcoreapp2.1\p3.ExportCategoriesByProductsCount.csproj.CoreCompileInputs.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p3.ExportCategoriesByProductsCount\obj\Debug\netcoreapp2.1\p3.ExportCategoriesByProductsCount.AssemblyInfoInputs.cache
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p3.ExportCategoriesByProductsCount\obj\Debug\netcoreapp2.1\p3.ExportCategoriesByProductsCount.AssemblyInfo.cs
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p3.ExportCategoriesByProductsCount\obj\Debug\netcoreapp2.1\p3.ExportCategoriesByProductsCount.csproj.CopyComplete
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p3.ExportCategoriesByProductsCount\obj\Debug\netcoreapp2.1\p3.ExportCategoriesByProductsCount.dll
+C:\Users\deko\source\repos\Entity framework Advanced\Json_Processing_Exercises\p3.ExportCategoriesByProductsCount\obj\Debug\netcoreapp2.1\p3.ExportCategoriesByProductsCount.pdb
